@@ -1,0 +1,3 @@
+*.c filter=keywords
+*.cpp filter=keywords
+*.h filter=keywords
